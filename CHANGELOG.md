@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/PerfectPan/logseq-plugin-code-formatter/compare/v1.0.0...v1.1.0) (2022-11-13)
+
+
+### Features
+
+* release asset includes LICENSE ([449e99b](https://github.com/PerfectPan/logseq-plugin-code-formatter/commit/449e99bbe44d4bfe5ee4e79a69dacab29bdf4559))
+
 # 1.0.0 (2022-11-13)
 
 

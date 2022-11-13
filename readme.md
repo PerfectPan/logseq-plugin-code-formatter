@@ -1,8 +1,13 @@
-# Logseq Plugin Template React
+# Logseq Plugin Code Formatter
 
-## Features
+Format your code block in logseq.
 
-- plug & play boilerplate with properly defined GitHub action defaults
-- develop with HMR, empowered by lightning fast Vite ⚡ with [vite-logseq-plugin](https://github.com/pengx17/vite-plugin-logseq)
-- TailwindCSS for styling
-- pnpm
+This plugin is powered by [prettier](https://github.com/prettier/prettier).
+
+## Supported language
+
+JavaScript, TypeScript, HTML
+
+## Usage
+
+![usage](./assets/usage.gif)

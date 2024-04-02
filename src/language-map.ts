@@ -2,6 +2,7 @@ import parserBabel from 'prettier/parser-babel';
 import parserTypeScript from 'prettier/parser-typescript';
 import parserHTML from 'prettier/parser-html';
 import parserMarkdown from 'prettier/parser-markdown';
+import parserCSS from 'prettier/parser-postcss';
 
 export type SupportedLanguage = 'js' | 'json' | 'javascript' | 'ts' | 'typescript' | 'html' | 'css' | 'less' | 'scss' | 'markdown';
 

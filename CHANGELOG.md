@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/PerfectPan/logseq-plugin-code-formatter/compare/v1.1.0...v1.1.1) (2024-04-03)
+
+
+### Bug Fixes
+
+* wrong comma ([09a0289](https://github.com/PerfectPan/logseq-plugin-code-formatter/commit/09a028999b9145ec40eb755c5f13262c41f6e5c7))
+
 # [1.1.0](https://github.com/PerfectPan/logseq-plugin-code-formatter/compare/v1.0.0...v1.1.0) (2022-11-13)
 
 

@@ -48,7 +48,6 @@ export const languageMap: Record<SupportedLanguage, IPrettierOption> = {
     parser: 'css',
     plugins: [parserCSS]
   },
-  ,
   markdown: {
     parser: 'markdown',
     plugins: [parserMarkdown]
